@@ -36,4 +36,4 @@ El motor de siembra de datos (`cl_SembradorDatos.cs`) inyecta automáticamente e
 - **Contraseña:** `admin123`
 
 **Mantenimiento:**
-Última actualización: 2026-06-22 por DevIAn
+Última actualización: 2026-06-22
