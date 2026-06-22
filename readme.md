@@ -23,6 +23,13 @@ El arranque del ecosistema encapsulado en esta carpeta depende inexcusablemente 
 - `Node.js (LTS)` y `NPM` (Para instalar dependencias y levantar el servidor de desarrollo en la carpeta FrontEnd).
 - `Angular CLI` (Recomendable a nivel global para la manipulación de la interfaz).
 
+**Instrucciones de Instalación y Ejecución:**
+1. Clona o descarga el repositorio (o extrae el archivo empaquetado).
+2. Asegúrate de tener los puertos `4200` y `5000` liberados.
+3. Desde la raíz de la carpeta `home`, haz doble clic en el archivo `iniciar_mexpei.bat`.
+4. El orquestador levantará automáticamente tanto el Backend en .NET (incluyendo la generación de la BD y siembra inicial) como el Frontend en Angular.
+5. El navegador se abrirá en `http://localhost:4200` automáticamente.
+
 **Credenciales de Acceso (Administrador):**
 El motor de siembra de datos (`cl_SembradorDatos.cs`) inyecta automáticamente este usuario maestro y 50 productos de prueba en la base de datos durante el primer arranque:
 - **Usuario:** `admin`

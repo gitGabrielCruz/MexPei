@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MexPei.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80eebf7ae52691f4bbe69502e66d53d51c69616a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f911b14aa074120b3c9d77e2dcf07bb88e1d4c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MexPei.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MexPei.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
