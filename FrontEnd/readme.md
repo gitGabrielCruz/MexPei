@@ -22,4 +22,4 @@ Contenedor destinado a alojar el código fuente de la aplicación cliente (SPA) 
 Depende del contenedor `home`. Consumirá la API REST expuesta por el contenedor `BackEnd`.
 
 **Mantenimiento:**
-Última actualización: 2026-06-20 por DevIAn
+Última actualización: 2026-06-20
