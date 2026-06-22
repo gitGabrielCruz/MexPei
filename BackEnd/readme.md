@@ -22,4 +22,4 @@ Contenedor destinado a alojar el código fuente de la API RESTful (C# ASP.NET Co
 Depende del contenedor `home`. Interactuará con SQL Server como motor de base de datos.
 
 **Mantenimiento:**
-Última actualización: 2026-06-20 por DevIAn
+Última actualización: 2026-06-20
